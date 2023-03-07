@@ -1,6 +1,6 @@
 # Project Title
 
-Redux Project Flight Booking Application
+Redux Project Video Gallery website
 
 ## Authors
 
@@ -8,7 +8,7 @@ Redux Project Flight Booking Application
 
 ## Documentation
 
-[Live Project](https://radiant-moonbeam-99bfde.netlify.app)
+[Live Project](https://famous-gelato-e35740.netlify.app/)
 
 ## How to run
 
@@ -19,13 +19,13 @@ Please follow the below instructions to run this project in your machine:
 - Clone this repository -
 
 ```bash
-  git clone https://github.com/Learn-with-Sumit/batch-2---assignment-2---flight-booking-HadiAnik.git
+  git clone https://github.com/HadiAnik/video-gallery.git
 ```
 
 - Go to the cloned project directory
 
 ```bash
-  cd flight-booking-application
+  cd video-gallery
 ```
 
 - Install dependencies
@@ -34,7 +34,27 @@ Please follow the below instructions to run this project in your machine:
   npm i
 ```
 
-- Install VS Code Live Server plugin & start the server.
+- Start the react project.
+
+```bash
+  npm start
+```
+
+## For Server
+
+- Then go to server folder
+
+```bash
+  cd server
+```
+
+- Install dependencies
+
+```bash
+  npm i
+```
+
+- Start the server.
 
 ```bash
   npm start
